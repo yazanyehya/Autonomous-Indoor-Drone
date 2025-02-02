@@ -59,7 +59,7 @@ Welcome to the **Indoor Autonomous Drone** project! This repository contains a r
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yazanyehya/Indoor-Autonomous-Tello-master.git
+   git clone https://github.com/yazanyehya/Autonomous-Indoor-Drone.git
    ```
 2. **Install Dependencies:**
    ```bash
@@ -134,12 +134,6 @@ Welcome to the **Indoor Autonomous Drone** project! This repository contains a r
   Modify the smoothing factors or PID parameters.
 - **Simulation Errors:**  
   Ensure Webots is properly installed and the simulation project is correctly configured.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
