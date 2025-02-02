@@ -148,7 +148,3 @@ Welcome to the **Indoor Autonomous Drone** project! This repository contains a r
 
 Happy coding and fly safe! 🚀
 ```
-
----
-
-This README uses emojis to add personality and clarity while keeping the content professional and easy to follow. Simply copy the content into a `README.md` file in your repository's root directory. Enjoy!
